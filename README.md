@@ -16,7 +16,37 @@
  
 <div> 
   <a href="https://instagram.com/baekstarz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/vitóriasardá" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+<div align="center">
+  <a href="https://open.spotify.com/user/https://open.spotify.com/user/jtry6q75oce2018e527837154?si=5fc688fb5d594090">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=https://open.spotify.com/user/jtry6q75oce2018e527837154?si=5fc688fb5d594090&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+###
+
+<div class="tenor-gif-embed" data-postid="25101808" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/shadow-the-hedgehog-shadow-slick-back-hair-quills-slick-hair-gif-25101808">Shadow The Hedgehog Shadow GIF</a>from <a href="https://tenor.com/search/shadow+the+hedgehog-gifs">Shadow The Hedgehog GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
