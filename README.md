@@ -20,21 +20,4 @@
   </a>
 </div>
 
----
-<div align="center">
-  <a href="https://open.spotify.com/">
-    <img src="https://open.spotify.com/user/jtry6q75oce2018e527837154?si=6d4ad92b326f4fb9" alt="Spotify Now Playing" width="400" />
-  </a>
-</div>
 
----
-
-<div align="center">
-  <img src="https://media1.tenor.com/m/h9yZ95d6J2UAAAAd/shadow-the-hedgehog-shadow.gif" width="300" />
-</div>
----
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitoriasarda/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitoriasarda/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/vitoriasarda/output/pacman-contribution-graph.svg">
-</picture>
